@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(231, 214, 214);
+}
+
+
+
+nav{
+    background-color: rgb(170, 119, 119);
+    color: beige;
+    font-family: Arial, Tahoma;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(206, 139, 139);
+}
+
+
+aside{
+background-color: rgb(196, 153, 153);
+float: right;
+width: 40%;
+text-align: center;
+border-radius: 5%;
+color: rgb(15, 11, 11);
+
+}
